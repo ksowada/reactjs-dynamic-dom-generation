@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Installation
 ```bash
-$ git clone https://github.com/rnadler/reactjs-data-driven-dom.git
-$ cd reactjs-data-driven-dom
+$ git clone https://github.com/rnadler/reactjs-dynamic-dom-generation.git
+$ cd reactjs-dynamic-dom-generation
 $ npm install
 ```
 #### Running the development server
